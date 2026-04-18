@@ -1,19 +1,37 @@
 <div align="center">
+    <img width=300 src="./assets/main.gif"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+SNEHA!" alt="Typing SVG" /></a>
+</div><div align="center">
 
-# 🌟 Snehalatha Arakkonam | Digital Craftsman
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=00C2E0&center=true&vCenter=true&random=false&width=700&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Full+Stack+%26+Web+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;I+Love+Coding+With+Passion+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/snehalathaArakkonam/snehalathaArakkonam/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/snehalathaArakkonam/snehalathaArakkonam/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/snehalathaArakkonam/snehalathaArakkonam/blob/output/github-contribution-grid-snake.svg" width="1500px" />
-</picture>
+<!-- TYPING HEADER -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=38&duration=2000&pause=2500&color=00C2E0&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Snehalatha+Arakkonam;Full+Stack+Web+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;UI%2FUX+Designer+%F0%9F%8E%A8;Creative+Problem+Solver+%E2%9D%A4%EF%B8%8F" />
+</a>
 
 </div>
 
+## 🔗 CONNECT WITH ME
+
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
+
+<a href="mailto:asnehalatha363@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sneha-arakkonam">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/snehalathaArakkonam">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://snexpf.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
