@@ -18,19 +18,37 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-<div align="center" style="background: linear-gradient(90deg, #1e3a8a, #3b82f6); color: white; padding: 30px; border-radius: 20px; max-width: 800px; margin: 0 auto; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);">
-  <h2>Snehalatha Arakkonam</h2>
-  <h3>3rd Year B.Tech CSE Student</h3>
-  <p><strong>Siddartha Institute of Science and Technology, Puttur</strong></p>
-  <h3>GPA: 8.5</h3>
-  <p>Passionate about building intelligent AI-powered applications, pixel-perfect websites, and full-stack solutions. Turning ideas into reality is my daily addiction! 🔥</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" style="border-radius:15px; padding:20px">
+
+# 🌟 Snehalatha Arakkonam  
+
+### 🎓 3rd Year B.Tech CSE Student  
+📍 Siddartha Institute of Science and Technology, Puttur  
+⭐ GPA: 8.5  
+
+---
+
+💡 Passionate about building **AI-powered applications**,  
+🎨 pixel-perfect modern websites, and  
+⚙️ full-stack scalable solutions.
+
+🚀 *Turning ideas into reality is my daily addiction!*
+
+</td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-## 🔥 Most Used Languages
+##  Most Used Languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,python,typescript,java,html,css,sql" width="80%" />
@@ -40,7 +58,7 @@
 
 ---
 
-## 🛠️ My Technology Arsenal
+##  My Technology Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,aws,docker,git,tensorflow,scikitlearn,keras,mongodb,mysql" width="85%" />
@@ -94,16 +112,34 @@
 </td>
 </tr>
 </table>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/api?username=snehalathaArakkonam&theme=radical&hide_border=true&radius=15" width="100%" alt="Contribution Graph - Last Year" />
+## 🐍 Contribution Journey
 
-<img src="https://github-profile-trophy.vercel.app/?username=snehalathaArakkonam&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=snehalathaArakkonam&style=for-the-badge&color=blueviolet&label=Profile+Views)
+<br/>
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/divider_moving_neon_gradient.svg" alt="Neon Divider" />
+</p>
 
----
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehalathaArakkonam&theme=radical&hide_border=true&radius=15" width="100%" alt="Contribution Graph - Last Year" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=snehalathaArakkonam&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snehalathaArakkonam&style=for-the-badge&color=blueviolet&label=Profile+Views" />
+</p>
+
 
 ## 🤝 Let's Connect & Contact Me
 
