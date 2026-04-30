@@ -36,7 +36,7 @@
 
 ---
 
-##  About Me
+##  ABOUT ME
 
 <div align="center">
 
@@ -173,7 +173,7 @@
 </div>
 
 **📍 Address**  
-Tirupati, Andhra Pradesh, India - 517501
+Tirupati, Andhra Pradesh, India - 517520
 
 ---
 
